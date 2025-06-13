@@ -42,9 +42,9 @@ I enjoy exploring data to uncover trends, automate workflows, and build impactfu
 
 Here are a few highlights from my portfolio:
 
-- 🕵️‍♀️ **Murder Mystery Dashboard** – Built in Power BI, an interactive story-solving tool  
+- 🕵️‍♀️ **Cat or Croissant** – Built in Power BI, an interactive game dashboard
 - 🏨 **AtliQ Hotels Sales Analysis** – Python-driven project uncovering insights across 3 years of data  
-- 📬 **Email Sentiment Analyzer** – Streamlit app integrating Gmail API + sentiment analysis + word clouds
+- 📬 **Business Insights 360** – Build in Power BI, this initiative aims to provide comprehensive insights across various domains, including finance, sales, marketing, and supply chain.
 
 🔗 View more at: [https://codebasics.io/portfolio/Priya-Jain](https://codebasics.io/portfolio/Priya-Jain)
 
